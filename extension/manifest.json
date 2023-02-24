@@ -5,7 +5,7 @@
     "manifest_version": 3,
 
     "action" : {
-        "default_icon": "assets/roblox.png"
+        "default_icon": "assets/hippomewon.png"
     },
 
     "host_permissions": [
