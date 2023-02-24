@@ -1,7 +1,7 @@
 {
     "name": "PSX Trade Help Extension",
     "description": "PSX Trade Help Extension",
-    "version": "Beta 1.0.3",
+    "version": "1.0.3",
     "manifest_version": 3,
 
     "action" : {
