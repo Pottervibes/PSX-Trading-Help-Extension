@@ -21,9 +21,9 @@
     },
 
     "icons": {
-        "16": "assets/roblox.png",
-        "32": "assets/roblox.png",
-        "48": "assets/roblox.png",
-        "128": "assets/roblox.png"
+        "16": "assets/hippomewon.png",
+        "32": "assets/hippomewon.png",
+        "48": "assets/hippomewon.png,
+        "128": "assets/hippomewon.png"
     }
 }
