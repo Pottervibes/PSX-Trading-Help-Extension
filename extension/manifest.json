@@ -1,7 +1,7 @@
 {
     "name": "PSX Trade Help Extension",
     "description": "PSX Trade Help Extension",
-    "version": "1.0.0",
+    "version": "Beta 1.0.3",
     "manifest_version": 3,
 
     "action" : {
@@ -17,7 +17,7 @@
     ],
 
     "background": {
-        "service_worker": "scripts/log.js"
+        "service_worker": "scripts/values.js"
     },
 
     "icons": {
